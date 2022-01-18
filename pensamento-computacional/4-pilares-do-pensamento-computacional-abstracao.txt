@@ -1,0 +1,25 @@
+Abstração
+
+Abstração / Generalização
+
+Abstrair : 
+Observar um ou mais elementos, avaliando características e propriedades em separado.
+
+Abstração :
+Processo intelectual de isolamento de um objeto da realidade.
+
+Generalizar :
+Tornar mais geral, mais amplo, extensão.
+
+Generalização, na lógica, é a operaão intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenômenos similares.
+
+Como classifiacr os dados ?
+ - Características;
+ - Pontos essenciais;
+ - Generalizar/detalhar.
+
+Conceitos baseados em abstrações :
+Algoritmos : Merge sort, Clustering, Busca binária.
+Estruturas de dados : árvore, listas, grafos.
+Linguagens de probramação : Java, Python, C++.
+Outros : Comunicação (broadcasting), Arquitetura de dados. 
