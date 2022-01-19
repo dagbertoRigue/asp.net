@@ -1,0 +1,47 @@
+Pilares do Pensamento Computacional - Reconherimento de Padrões
+
+Reconherimento de Padrões :
+	- Modelo base.
+	- Estrutura invariante.
+	- Repetição
+Determina similaridades e diferenças.
+Ex: Processo utilizado, por plataformas de redes sociais, de compressão dos metadados de fotos, para otimizar espaço no servidor de dados.
+
+Porque determinar padrões ?
+Generalizar, com objetivo de obter resolução para problemas diferentes.
+
+Classificação de objetos : dependem do domínio e do tipo de objeto.
+ - Categorias;
+ - Classes
+
+Padrões : Humanos X Computador
+ - Pelo ser humano : Comparação
+	- Grau de similaridade (fruta desconhecida);
+	- Grupos conhecidos x objeto desconhecido.
+ - Pelo Computador : 
+	- Representação de atributos;
+	- Aprendizado - conceito associado ao objeto;
+	- Armazenar dados;
+	- Regras de decisão.
+
+Padrões : Abordagem
+ - Extração de características;
+ - Classificação de dados.
+
+Aplicações do reconhecimento de padrões : Redes Neurais, Ciência de dados, Machine Learning
+ - Classificação de dados;
+ - Reconhecimento de imagem;
+ - Reconhecimento de fala;
+ - Análise de cenas;
+ - Classificação de documentos.
+
+
+
+
+
+
+
+
+
+
+
