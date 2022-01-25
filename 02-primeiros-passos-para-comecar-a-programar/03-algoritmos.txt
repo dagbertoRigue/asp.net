@@ -1,0 +1,32 @@
+O que é um algoritmo ?
+Processo de resolução de problema "step by step" utilizando instruções.
+Tem por objetivo o processamento dos dados.
+O computador recebe, manipula e armazena dados, através de instruções criadas nos programas.
+
+Desenvolvimento de programas
+ - Análise : estudo e definição dos dados de entrada e saída;
+ - Algoritmo : descreve o problema por meio de ferramentas narrativas, fluxograma ou pseudocódigo.
+ - Codificação : o algoritmo é codificado de acordo com a linguagem de programação escolhida.
+
+Algoritmo
+ - sequência de passos com objetivo definido;
+ - execução de tarefas específicas;
+ - conjunto de operações que resultam em uma sucessão finita de ações.
+
+Construção de Algoritmos
+Como construir um algoritmo ?
+ - Compreensão do problema :  pontos mais fortes;
+ - Definir os dados de entrada : dados fornecidos e cenário;
+ - Definir processamento : cálculos e restrições;
+ - Definir dados de saída : após processamento (existe possível previsibilidade);
+ - Utilizar um método de construção : construção e refinamento do algoritmo;
+ - Teste e diagnóstico : refinamento do algoritmo.
+
+Ferramentas de construção de algoritmo :
+ - Narrativa : utilização da linguagem natural;
+ - Fluxograma : utilização de símbolos pré-definidos;
+ - Pseudocódigo : Portugol.
+
+
+
+
