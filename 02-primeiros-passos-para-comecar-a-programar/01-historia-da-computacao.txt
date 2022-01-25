@@ -1,0 +1,76 @@
+-----------------------------------------------------------
+História da Computação
+
+Computação : porque estudar a história da computação ?
+ - Compreender as dificuldades enfrentadas;
+ - Fundamentos da computação;
+ - O processo do pensamento.
+
+A ciência é uma área de avanços cumulativos.
+Fundamento é o hardware, onde temos o software dependente do desenvolvimento desse.
+
+Objetivo : Minimizar esforços e otimizar recursos.
+
+O primeiro dispositivo de cálculo : o Ábaco
+Realizava operações básica de até 12 dígitos, utilizado, provavelmente, na Babilônia, 3 mil antes de Cristo.
+
+-----------------------------------------------------------
+Berço da Computação
+
+Pai da computação : Alan Mathison Turing
+Definiu o processo de pensamento conhecido por algoritmo.
+Turing : 1912 à 1954
+Aluno de Cambrigde
+Matemático que tentou caracterizar operações computáveis, criando uma máquina em um sistema formal.
+Formalizou o conceito de algoritmo.
+
+Máquina de Turing : símbolos processados por computo.
+Símbolo -> Ações
+Operações -> Estado do sistema.
+
+Projeto Delilav
+Alan Turing participou do projeto de codificador de voz, juntamente com Von Newmann e Claude Shannon, onde teve seu primeiro contato com a eletrônica.
+
+Em 1950 propôs a Inteligência Artificial.
+"I propose consider the question, Can machines think?"
+					  Alan Turing 
+Criou uma codificação à nível de hardware, um grande avanço para a época.
+Criou a codificação dos números binários.
+
+Claude Shennan
+Em contato com as pesquisas de George Bool, percebeu a vasta aplicabilidade da álgebra booleana, base dos computadores atuais.
+Em 1948, fez a dissertação sobre a área de teocia da informação, apresentando os conceitos de compressão de dados e a criptografia.
+
+Von Newmann
+Matemático, responsável pelas primeiras construções de hardware.
+Arquitetura de Von Newman : utilização do mesmo espaço de memória para armazenar dados e programas.
+Integrou-se ao NPL - National Physical Laboratory, na Inglaterra, onde trabalhou na construção do primeiro computador digital.
+
+-----------------------------------------------------------
+Instrumentos Computacionais
+
+Blaise Pascal : considerada a primeira máquina, realizava duas operações matemáticas - soma e subtração.
+Charles Xavier Thomas : criou o Arithometer, máquina que realizava operações matemáticas e que realmente funcionava.
+
+Essas máquinas não são consideradas computadores, pois não eram programáveis.
+
+Charles Babbage : protótipo em madeira e latão, não construído, em 1822, que apresentava funcionalidades de um computador atual.
+Criou o conceito de software, com diferentes funções e conjuntos mutáveis.
+
+Ada Augusta Lovelace : educada por De Morgan, foi a primeira programadora. 
+Criou vários conceitos como looping, sequência de instruções, etc.
+Considerada Patrona da ciência da computação.
+
+Herman Hollerith : empregado  da United States Census Office, criou aos 19 anos, uma máquina de tabular.
+Criou um empresa Hollerith Tabuleting Machine, utilizada no escritório de censo americano, em 1880.
+Utilizava cartões perfurados. A máquina interpretava, classificava e realizava operações resentadas pelas perfurações.
+Sua empresa foi incorporada poe outra chamada CTR, posteriormente ficou conhecida como IBM.
+
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+
+
+

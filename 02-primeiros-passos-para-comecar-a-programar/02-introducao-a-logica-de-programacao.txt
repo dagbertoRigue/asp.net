@@ -1,0 +1,48 @@
+O que é lógica de programação ?
+
+Lógica : tipo de estrutura que visa solucionar um problema.
+Parte da fisolofia que trata das formas de pensamento em geral (dedução, indução, hipótese, inferência, etc.) e das
+operações intelectuais que visam à determinação do que é verdadeiro ou não.
+Outras definições sobre a lógica :
+ - Ordenação que segue convenções;
+ - Organização coesa;
+ - Forma como desencadeiam acontecimentos;
+ - Forma de raciocínio.
+ - Organização e planejamento das instruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa.
+
+Problema : questão que foge a uma determinada regra. 
+É um desvio do percurso, o qual impede de atingir um objetivo com eficiência e eficácia.
+
+Obs.: Seres humanos podem prever comportamentos, computadores não.
+Por esse motivos utilizamos instruções detalhadas e bem definidas.
+
+Técnicas de lógica de programação
+
+Técnica Linear :
+ - modelo tradicional;
+ - não tem vínculo com estrutura hierárquica;
+ - não tem vínculo com programação de computadores.
+Execução sequenciada, ordenação de elementos por uma única propriedade.
+Recursos limitados, em uma única dimensão.
+Ex: Acordar, fazer café, tomar o café feito.
+
+Técnica Estruturada :
+Ordenação, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato).
+Objetivo :
+ - facilitar a escrita; (programas)
+ - facilitar o entendimento;
+ - facilitar a validação;
+ - facilitar a manutenção.
+
+Técnica Modular :
+Controlada por um conjunto de regras.
+Processadas em partes independentes(módulos).
+
+Dados de Entrada -> Processo de transformação -> Dados de Saída
+
+Metas : simplificação, decompor o problema, verificação do módulo.
+Ex: Módulo preparar acordar. Módulo preparar café (café, sucos). Módulo tomar café da manhã.
+
+
+
+
