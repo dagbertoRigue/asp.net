@@ -1,1 +1,101 @@
 Fundamentos de Algoritmo
+
+1. Tipologia e Variáveis
+Tipologia :
+Os dados enviados para o computador precisam ser tipados, para serem tratados e processados.
+São classificados em 3 tipos básicos :
+ - Numéricos : classificados em inteiros e reais (inteiros de decimais, separados para melhor utilização de espaço);
+ - Caracteres : representam qualquer tipo de dados, letras, símbolos (caracter especial), números, etc.;
+ - Lógicos : atrelado à lógica booleana, possuindo dois estados possíveis (verdadeiro ou falso).
+
+A álgebra booleana é a linguagem entendida pelo computador.
+
+Variável :
+Pode assumir qualquer um dos valores de um determinado conjunto de valores.
+	a + b = c
+Uma variável precisa ser previamente identificada antes de ser utilizada.
+Com excessão do Python, por exemplo, que pode-se definir a variável na utilização da mesma.
+
+Regras para definir uma variável
+ - Atribuição de um ou mais caracteres;
+ - Primeira letra - não número;
+ - Sem espaços em branco;
+ - Vedado - utilização de palavras reservadas;
+ - Caracteres e números.
+
+Papéis de uma variável
+ - Ação : modificação de estado
+ - Controle : Vigiada, controle
+
+Constante
+Tudo aquilo que é inalterável, que não muda.
+Assume um único valor e é invariável, como por exemplo, pi.
+
+2. Instruções primitivas 
+Dentro do cálculo matemático, temos variáveis, constantes e operadores.
+Os operadores são classificados em binário e unário.
+Binário - precisa de dos valores, verdadeiro - falso.
+Unário - utilizado para uma inversão do sinal.
+
+O que são instruções ?
+Instruções são linguagem de palavras-chaves (vocabulário) de uma determinada linguagem de programação,
+que tem por finalidade comandar um computador que irá tratar os dados.
+Cada linguagem de programação possui sua própria notação que vai ser tratado nas operações.
+Por exemplo, uma palavra utilizada para um objeto em idiomas diferentes.
+
+3. Estruturas Condicionais e Operadores
+Condição - estado de uma pessoa ou coisa.
+Condicional - que expressão uma condição ou suposição;
+	    - contem ou implica uma suposição ou hipótese.
+Estrutura Condicional Simples :
+Condição -> Operação
+Estrutura Condicional Composta :
+Condição -> Operação
+	 -> Exceção
+Estrutura Condicional Encadeada :
+Condição -> Operação 
+ -> Condição -> Operação -> Exceção
+
+Operadores Lógicos :
+AND : condição é validada se todas as condições devem ser verdadeiras
+OR : condição é validade caso uma das condições forem verdadeiras
+NOT : condição é validada caso a condição fo invertida logicamente.
+
+4. Estrutura de Repetição
+Definições : Controle de fluxo, Laços, Malhas de repetição, Loop.
+Condição de parada : número de repetições pré fixada para que a condição seja satisfeita.
+Função :  redução de linhas, compreensão facilitada e redução de erros.
+Exemplos : while, for, do while;
+
+5.Vetores e Matrizes
+Definições : 
+ - Vetor é caracterizado por uma variável dimensionada com tamanho pré-fixado. Matriz unidimensional.
+ - Matriz é uma tabela organizada em linhas e colunas no formato M x N, onde:
+	- M representa o número de linhas e 
+	- N, o número de colunas.
+
+6. O que são funções
+Definições : subprograma, bloco, subalgoritmo, sub-rotina, método.
+As funções são blocos de instruções que realizam tarefas específicas.
+Definição formal : funções são blocos de instruções (código), identificados por nomes e parâmetros.
+Funções levam a MODULARIZAÇÃO DO PROBLEMA.
+Similar ao conceito de função matemática.
+f:a->b
+
+7. Instruções de entrada e saída
+Dados -> Processamento -> Resultado
+Definição de Entrada de dados : 
+ - consiste na inserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivo, etc.
+Definição de Saída de dados : 
+ - consiste na impressão dos dados do mundo abstrato, digital por meio de ação de alguma interface.
+Os formatos podem variar desde simples arquivos binários até complexas querys de bancos de dados.
+
+Existem dois tipos de saída dentro de um programa : saída programada e saída por interrupção.
+
+
+
+
+
+
+
+
