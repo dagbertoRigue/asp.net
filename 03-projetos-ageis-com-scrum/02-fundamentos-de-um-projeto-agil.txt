@@ -1,0 +1,13 @@
+Refining
+Realizada pelo PO, a cerimônia não oficial chamada Refining, apresenta as ideias antes do Planning.
+A Refining serve para que a equipe de dev possa gerar as dúvidas antes da realização da Planning.
+
+Release Planning
+Liberação ou lançamento de software é o lançamento de nova versão oficial de produto de software.
+Cada vez que um produto de software é criado ou modificado, o fabricante e seus desenvolvedores decidem sobre como distribuir ou o novo produto, ou a modificação às pessoas que o utilizam.
+Não é obrigatório em toda Sprint, mas muito recomendado não acumular sprints antes de uma release.
+
+Existem 2 tipos de Release Planning :
+- Release Planning de Múltiplas Squads.
+Consiste em vários times de desenvolvimento agrupados fazendo várias coisas distintas, que podem ou não ter correlação entre elas. No final, devem ser agrupadas numa mesma releasing, para serem implementadas em produção. Precisam ser entregues de forma que a entrega de uma squad não impacte em outra, na hora do merge.
+- Release Planning de Projeto.

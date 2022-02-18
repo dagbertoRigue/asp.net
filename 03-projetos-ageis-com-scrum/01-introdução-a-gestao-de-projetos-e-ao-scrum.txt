@@ -1,0 +1,139 @@
+Introdução ao SCRUM
+1. Introdução à Gestão de Projetos e ao SCRUM
+Toda empresa possui o seu Objetivo de Negócio.
+Com base no objetivo de negócio, surgem os requisitos que são usados no Processo de Desenvolvimento.
+Processo de desenvolvimento :
+ - Concepção;
+ - Análise e Design;
+ - Testes;
+ - Implantação.
+
+Desenvolvimento de Software
+(...) o Princípio de Pareto também se aplica ao desenvolvimento de software, onde 20% das funcionalidades costuman gerar 80% ou mais do benefício esperado.
+Do uso das funcionalidades:
+- 7% - sempre;
+- 13% - frequentemente;
+- 16% - às vezes;
+- 19% - raramente;
+- 45% - nunca.
+
+Tradicional X Ágil
+Tradicional (Waterfall, ou cascata) : 
+Só permite que o projeto avance quando uma fase está inteiramente completa.
+Requisito -> Design -> Implementação -> Verificação -> Manutenção.
+Ágil :
+Software construído por partes (incremental) e cada parte executa-se em um cliclo (iterativo)
+Requisito      Requisito      Requisito      Requisito      Requisito
+Design         Design         Design         Design         Design 
+Implementação  Implementação  Implementação  Implementação  Implementação 
+Verificação    Verificação    Verificação    Verificação    Verificação 
+Manutenção     Manutenção     Manutenção     Manutenção     Manutenção
+
+Tradicional
+Escopo definido na fase inicial do projeto (preditivo).
+Projeto é controlado por fases e marcos.
+Cliente só vê o software funcionando na fase final do projeto.
+Resistência a mudanças.
+
+Ágil
+Escopo definido ao longo do projeto (adaptativo).
+Projeto é controlado por funcionalidades entregues.
+Cliente pode ver parte do software funcionando na parte inicial do projeto.
+Mudanças constantes de acordo com feedbacks contínuos.
+
+Em projetos  tradicionais, você corre o risco de descobrir que estava errado depois de meses.
+Com o SCRUM, você descobre que estava errado em no máximo 30 dias.
+
+O que é ser Ágil ?
+Ágil é diferente de ser rápido.
+Rapidez na mudança e desembaraço;
+Fazer as coisas complexas de forma simples;
+Equipe comprometida com os objetivos;
+Maior valor para o cliente;
+Ter a capacidade de responder rapidamente a mudanças.
+
+SCRUM
+SCRUM é um dos frameworks de gerenciamento de projetos ágeis.
+Exemplos de outros :  Lean, Kanban, etc.
+Projetos usando equipes pequenas e multidisciplinares produzindo os melhores resultados.
+
+Pilares do SCRUM :
+TRANSPARÊNCIA, ADAPTAÇÃO, INSPEÇÃO.
+
+Conversar mais e escrever menos;
+Demonstrar o software constantemente aos usuários e obter feedbacks constantes;
+Requisitos mudam ao longo do tempo;
+Aprender progressivamente com o uso do software.
+
+Razões para adotar o SCRUM :
+Desenvolvimento e entrega em partes menores (2 a 4 semanas), com constante feddback dos usuários;
+Melhor gerenciamento de riscos (Redução de incertezas);
+Comprometimento, motivação e transparência da equipe (Daily Meeting);
+Maior valor para o negócio (Priorização do Backlog);
+Usuários envolvidos durante todo o ciclo;
+Aplicação das lições aprendida (Melhoria contínua).
+
+Características do time SCRUM :
+Equipes capazes de se auto organizarem;
+As tarefas são do time e todos são responsáveis (se um atrasa a entrega, impacta em todos da equipe);
+Forte comprometimento com os resultados.
+
+Porque as Startups utilizam framework ágil ?
+MVP - Minimum Viable Product. (Mínima entrega viável - pequenas entregas)
+
+2. Papéis e responsabilidades de cada um do time
+Existem três papéis no time:
+PO - Project Owner (dono do produto);
+SM - Scrum Master;
+DEV - time de desenvolvimento (de 3 a 9 pessoas).
+
+Product Owner (PO)
+Representante da área de Negócios;
+PO não é um Comitê;
+Define as funcionalidades do software (Product Backlog);
+Prioriza as funcionalidades de acordo com o valor do negócio;
+Garante que o time de desenvolvimento entenda os itens do Backlog no nível necessário.
+
+SCRUM Master (SM)
+Garantir o uso correto do SCRUM;
+SCRUM Master não é Gerente de projetos;
+Age como facilitador, caso o PO não consiga definir claramente para a equipe Dev.
+Auxilia o Product Owner no planejamento e estimativas do backlog;
+Auxilia a equipe a remover impedimentos;
+Treina o time em autogerenciamento e interdisciplinaridade.
+
+Time de Desenvolvimento (DEV)
+Possui habilidades suficientes para desenvolver, testar, criar e desenhar, ou seja, tudo que for necessário para entregar o software funcionando.
+
+3. Cerimônias do SCRUM
+Time Box - tempo máximo definido para fazer uma cerimônia ou Sprint.
+Serve para doutrinar a equipe a utilizar o tempo definido.
+
+Sprint - corrida, arrancada. 
+É o principal evento do SCRUM.
+Duração de uma Sprint é 30 dias corridos (ou menos).
+Composição de uma Sprint:
+- Planejamento da Sprint;
+- Reuniões diárias (Daily Meeting);
+- Revisão da Sprint;
+- Retrospectiva da Sprint.
+
+Planejamento da Sprint : quem participa ?
+Feito no primeiro dia, participa o PO e o time de desenvolvimento.
+Sua time box é definido para acontecer em 8 horas.
+Nas primeiras 4 horas é definido as funcionalidades, os motivos.
+Nas próximas 4 horas, o time de desenvolvimento quebra as atividades de definem suas realizações.
+Pode ser usado o Planning Poker, onde se utiliza cartas para definir e estimar todas as tarefas.
+Nessa fase é decidido de é possivel realizar a entrega do que foi definido pelo PO.
+
+Daily Metting. (Time Box: 15 min)
+Realizado pelo PO o SM e pela equipe de desenvolvimento.
+Realizado de pé, sempre no mesmo horário e local. (stand up meeting)
+Utiliza-se o quadro Kanban : To do | Doing | Done
+
+Review (Time Box: 4h)
+No último dia da Sprint de 30 dias, é realizado o pelo time DEV para o PO, onde é mostrado o trabalho feito.
+Caso o PO aceite a apresentação, o desenvolvimento entra em produção.
+
+Retrospectiva (Time Box: 3h)
+Reunião da equipe para apresentar as Lições Aprendidas. (Transparência)
