@@ -11,3 +11,24 @@ Existem 2 tipos de Release Planning :
 - Release Planning de Múltiplas Squads.
 Consiste em vários times de desenvolvimento agrupados fazendo várias coisas distintas, que podem ou não ter correlação entre elas. No final, devem ser agrupadas numa mesma releasing, para serem implementadas em produção. Precisam ser entregues de forma que a entrega de uma squad não impacte em outra, na hora do merge.
 - Release Planning de Projeto.
+
+Analisando escopo e definindo prioridades
+A definição do escopo é a parte mais crítica do processo de gestão de projeto.
+Nesse momento é definido o que será desenvolvido e do artefato dessa fase que serão extraídos os benefícios a serem atingidos.
+Uma definição ruim pode gerar um escopo errado ou menos acertivo.
+Por vezes, o escopo é obtido invertendo a ordem e começando a entender qual objetivo a ser atingido, antes mesmo de definir o "como".
+Uma boa prática é inspecionar cada entrega, validar com o cliente se o produto está correto e dentro da expectativa, além de realizar as adaptações necessárias.
+
+Product Backlog
+Cada produto deve ter seu product Backlog e este nunca termina, visto que o sistema deve estar sempre em evolução.
+O Product Backlog é composto por Épicos e Estórias
+Épicos - incrementos sem muito detalhamento, ajuda a te direcionar dos caminhos que deve seguir.
+Estória - detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e suas regras de negócio.
+
+Escrevendo uma Estória:
+- Nome da Estória;
+- Descrição da Estória (Eu, Como, Quero, Quando);
+- Regras de Negócio (Separar regras de frond-end de regras de back-end);
+- Tela (Link ou imagem das telas a serem desenvolvidas);
+- KPI (Quais os objetivos/valor a estória precisa atingir);
+- Tagueamento (
