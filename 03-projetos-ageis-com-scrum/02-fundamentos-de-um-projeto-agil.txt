@@ -37,3 +37,12 @@ Escrevendo uma Estória:
 Riscos Positivos e Negativos
 Positivos : muito ignorado nos projetos, porém um dos fatores de maiores ganhos no desenvolvimento de sistemas.
 Negativos : itens que podem afetar o prazo, custo ou escopo de um projeto de maneira que pode acabar o inviabilizando.
+
+Papel do PO na Transformação Digital
+A Tranformação Digital é um processo no qual as empresas fazem uso da tecnologia para melhorar o desempenho, aumentar o alcance e garantir resultados melhores.
+É uma mudança estrutural nas organizações dando um papel essencial para a tecnologia.
+
+Para adequar uma empresa à transformação digital, é necessário organizar os times em squads, implementar o kanban como metodologia de acompanhamento de teste, além de criar e utilizar o backlog.
+
+Squads ágeis.
+São equipes multifuncionais que geralmente contam com um agile coach para suporte e um product owner para orientação. Com uma missão única que orienta o trabalho, cada squad tem autonomia para determinar qual metodologia ágil será usada naquele projeto.
