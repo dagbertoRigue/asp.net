@@ -1,0 +1,62 @@
+1. Conceitos : Estória VS Tarefas
+
+Estória
+Conjunto de tarefas.
+
+Épico
+Conjunto de estórias
+
+Imagine que você quer construir uma bicicleta.
+A bicicleta, em si, é o objetivo do projeto.
+Então, quando todos os épicos estiverem sido concluídos, o projeto estará pronto.
+Logo, o projeto "Bicicleta" é um conjunto dos épicos : quadro, garfo, celin, rodas, sistema de freio e sistema de tração.
+O guidão não foi citado e nem os pedais.
+O Épico é o objetivo macro que deve ser atingido.
+E, para ser atingido, esse para ser atingido, esse objetivo macro deve ser quebrado em objetivos menores.
+Logo, o Épico "Garfo" consiste nas Estórias "Guidão", "Amortecedores" e "Garfo" que também é a peça central.
+O "Guidão" é uma Estória do Épico "Garfo".
+Assim como o pedal é uma Estória do Épico "Sistema de Tração".
+E a manopla de freio é uma Estória do "Sistema de freios".
+Porém essas histórias, por si só, ainda não dão a dimensão do trabalho para que o projeto seja concluído.
+Nesse caso é que entram as tarefas.
+Para realização da Estória "Garfo", eu preciso realizar as tarefas : 
+"Montar o Guidão", "Montar o Garfo", "Montar o garfo no quadro", "Montar o roda no garfo" e "Montar o sistema de freio na roda".
+Nesse exemplo, está sendo considerado que as peças já estão prontas.
+Caso não estivesse criadas, seria necessário criar Épicos para suas construções, como usinagens, por exemplo.
+Este é um dos motivos para realizar essas atividades antes de iniciar a construção, mapeando todas as dependências internas e externas, 
+e assim, poder priorizar tarefas e estórias de maneira acertiva.
+Para iniciar um projeto, começamos por criar os Épicos do projeto, quebrando cada Épico em Estórias e suas respectivas Tarefas. 
+De acordo com as necessidades, são criados novos Épicos ou novas Estórias.
+
+2. Critérios de Aceite, Estimativa e Planejamento de Tarefas
+
+Critério de Aceite :
+É uma lista de critérios que precisam ser alcançados para que a User Story atenda os requisitos do usuário e seja aceita pelo Product Owner.
+Os critérios de aceitação têm o objetivo de definir limites para as user stories.
+Ajudar o P.O. a detalhar em alto nível o que é necessário para entregar valor ao cliente.
+
+Estimativa e Planejamento :
+Planning Poker é o método mais utilizado para se fazer estimativas do tamanho das tarefas.
+É um jogo de cartas, onde cada membro do time de desenvolvimeno recebe um deck com todos os números da sequência de Fibonacci.
+(0, 1/2, 1, 2, 3, 5, 8, 13, 20, 40, 100, ?)
+Quando todos estão prontos, as estórias são lidas e as tarefas são criadas.
+Após a criação de cada tarefa, o time de desenvolvimento inteiro vota, jogando uma das cartas, dizendo qual o tamanho daquela atividade.
+Deve-se levar em conta a complexidade, de se realizar aquela tarefa, o trabalho manual em si e o tempo.
+Existem tarefas que a complexidade em se fazer é muito baixa, porém exige muito trabalho manual por parte do desenvolvedor, elevando o tempo de desenvolvimento.
+Isso é usado pelo time de desenvolvimento para estimar o tempo das tarefas.
+Como exemplo, uma tarefa simples pode receber peso 1, enquanto que uma tarefa complexa pode receber peso 13.
+Normalmente, quando uma tarefa recebe peso 20, os times entendem que a tarefa está grande demais e deve se quebrar em duas, ou mais tarefas ou estórias.
+Os integrantes do time que derem a maior e a menor nota devem justificar sua pontuação, pois eles podem ter considerado alguma coisa não vislumbrada pelo time.
+Outro modelo é o Planning T-shirt size.
+
+3.Relacionamento com Cliente / Stakeholders
+
+O Stakeholder é uma pessoa ou um grupo que legitima as ações de uma organização.
+Tem um papel direto ou indireto na gestão e resultados dessa organização.
+Dessa forma, um stakeholder pode ser afetado positivamente ou negativamente, dependendo das suas políticas e forma de atuação.
+Alguns exemplos de stakeholders de uma empresa podem ser :
+ - funcionários, gestores, gerentes, proprietários;
+ - fornecedores, concorrentes, ONGs, clientes, o Estado, credores;
+ - sindicatos e diversas outras pessoas ou empresas que estejam relacionadas com uma determinada ação ou projeto.
+
+
