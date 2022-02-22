@@ -29,4 +29,27 @@ Ações da Retrospectiva :
 A diferença entre a Daily e a Retrospectiva, apesar de muito parecidas é que a Daily é focada nas tarefas do dia a dia e a Retro é focada na Sprint como um todo.
 
 Refinamento :
+O Refinamento é uma cerimônia não oficial do SCRUM.
+Porém, ela é muito utilizada para que o time, juntamente com o Product Owner, discuta como será a próxima Sprint :
+- quais serão os intregáveis;
+- e adiantar possíveis dúvidas, que normalmente, apareceriam somente na planning.
+O Refinamento tem a finalidade de aumentar o entendimento da demanda, por parte do time, melhorar a qualidade da entrega e aumentar o retorno esperado para o projeto.
+Nesse momento, o time de desenvolvimento costuma fazer várias perguntas para o P.O., a fim de entender do que se trata a demanda.
+Por esse motivo, é muito importante que a estória já esteja bem escrita, nesse momento.
+A ideia é tornar a planning muito mais efetiva e assertiva, onde a presença de todo o time SCRUM é obrigatória.
+
+Review :
+Na Review, quem apresenta é o time de desenvolvimento.
+Neste momento, eles tem a oportunidade de mostrar o trabalho que cada um desenvolveu na Sprint anterior.
+Eles podem tirar qualquer dúvida técnica que o público presente tenha em relação à solução.
+Dúvidas de negócio continuam sendo tratadas pelo Product Owner que deve estar presente na cerimônia, assim como o Scrum Master.
+Nessa cerimônia, são convidados todos os interessados na entrega, sejam eles, os stakeholders, os demandantes diretos, os líderes técnicos e outros gestores.
+O Refinamento acontece um passo antes da Planning.
+
+Maturidade do Time:
+A maturidade do time depende da maturidade da empresa.
+Existem várias ferramentas que podem definir a maturidade do time
+Está diretamente ligado ao ambiente onde a equipe está inserida.
+Podemos utilizar os pilares do SCRUM (Transparência, Inspeção, Adaptação) para controlar a maturidade.
+Um time maduro não depende do SM nem do PO para ser maduro.
 
