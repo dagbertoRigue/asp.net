@@ -1,0 +1,50 @@
+Estruturas : Namespace
+Os Namespaces são usados para organizar classes.
+Para usar uma classe de outro namespace, colocamos using no começo do código.
+
+Um namespace serve para organizar classes.
+Por isso, podemos ter vários namespaces no código.
+
+Por exemplo, o "Console", usado para printar na tela, é uma classe do namespace "System".
+Por esse motivo o código deve referenciar esse namespace no começo do código usando "using System;".
+
+É possível ter duas classes com o mesmo nome, desde que elas estejam em namespaces diferentes.
+Exemplo :
+namespace a {
+	class Classe {
+	}
+}
+namespace b {
+	class Classe {
+	}
+}
+
+
+
+Estruturas : Classe
+Uma classe pode ter campos, propriedades, métodos e eventos dentro dela que são denominados membros.
+Quando uma classe é instanciada, essa instância é chamada de objeto.
+Nesse objeto, podem ser criados os valores de acordo com os campos da classe.
+
+
+Estruturas : Interface
+É como uma classe base que serve de molde para várias classes.
+Uma classe que implementa uma interface, deve implementar todos os menbros que tem dentro da interface.
+
+
+Estruturas : Enum
+Declara um conjunto de constantes nomeadas que começam do zero e incrementam de 1 em 1.
+Exemplo:
+enum Estacao {
+	primavera,
+	verão,
+	outono,
+	inverno
+}
+
+Debugging
+A depuração pode ser feita colocando um breakpoint no canto esquerdo do código, ou apertanto F9 e o executando.
+A execução, então, vai parar onde foi colocado o breakpoint e o código poderá ser inspecionado.
+
+https://github.com/Giovanna0208/Intro-Csharp-e-DotNet
+
