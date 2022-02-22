@@ -1,0 +1,32 @@
+Rotinas de um time ágil.
+
+1. Daily e Retrospectiva
+Daily :
+A Daily deve ter um tempo total de 15 minutos.
+Ocorrer sempre no mesmo horário e no mesmo lugar com toda a equipe de desenvolvimento.
+A presença o Product Owner e do Scrum master não é obrigatória, apesar de muitas pessoas ainda acreditarem nisso.
+Essa reunião serve para o time de desenvolvimento saber o que cada um está fazendo, podendo algum menbro da equipe com problema receber ajuda.
+É a cerimônia do SCRUM que mais agrega valor ao produto final.
+Na Daily é feita as 3 perguntas mágicas :
+ - O que eu fiz ontem ?
+ - O que eu farei hoje ?
+ - Possuo algum impedimento ?
+Mas a Daily não se limita a somente isso. Desde que respeitado o prazo de 15 minutos, os menbros podem discutir outros assuntos.
+O SCRUM Master irá verificar se é um assunto que pode ser encerrado na própria Daily, ou não.
+É permitido falar qualquer assunto na Daily, desde que agregue valor ao projeto.
+Retrospectiva :
+Ao contrário da Daily, que como o próprio nome diz executado diariamente, dentro da Sprint, a Rerospectiva acontece apenas uma vez na Sprint.
+Deve ocorrer sempre após a conclusão da Sprint e o SCRUM Master tem a presença obrigatória.
+Nessa cerimônia, a presença do P.O. é sempre muito importante, porém não é obrigatória.
+Observações da Retrospectiva :
+- O que foi bom ?
+- O que foi ruim ?
+Ações da Retrospectiva :
+- O que podemos fazer ?
+- O que não devemos fazer ?
+- O que devemos tentar fazer ?
+
+A diferença entre a Daily e a Retrospectiva, apesar de muito parecidas é que a Daily é focada nas tarefas do dia a dia e a Retro é focada na Sprint como um todo.
+
+Refinamento :
+
