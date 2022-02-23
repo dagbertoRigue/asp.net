@@ -1,14 +1,14 @@
 Estruturas : Namespace
-Os Namespaces s„o usados para organizar classes.
-Para usar uma classe de outro namespace, colocamos using no comeÁo do cÛdigo.
+Os Namespaces s√£o usados para organizar classes.
+Para usar uma classe de outro namespace, colocamos using no come√ßo do c√≥digo.
 
 Um namespace serve para organizar classes.
-Por isso, podemos ter v·rios namespaces no cÛdigo.
+Por isso, podemos ter v√°rios namespaces no c√≥digo.
 
-Por exemplo, o "Console", usado para printar na tela, È uma classe do namespace "System".
-Por esse motivo o cÛdigo deve referenciar esse namespace no comeÁo do cÛdigo usando "using System;".
+Por exemplo, o "Console", usado para printar na tela, √© uma classe do namespace "System".
+Por esse motivo o c√≥digo deve referenciar esse namespace no come√ßo do c√≥digo usando "using System;".
 
-… possÌvel ter duas classes com o mesmo nome, desde que elas estejam em namespaces diferentes.
+√â poss√≠vel ter duas classes com o mesmo nome, desde que elas estejam em namespaces diferentes.
 Exemplo :
 namespace a {
 	class Classe {
@@ -19,32 +19,25 @@ namespace b {
 	}
 }
 
-
-
 Estruturas : Classe
-Uma classe pode ter campos, propriedades, mÈtodos e eventos dentro dela que s„o denominados membros.
-Quando uma classe È instanciada, essa inst‚ncia È chamada de objeto.
+Uma classe pode ter campos, propriedades, m√©todos e eventos dentro dela que s√£o denominados membros.
+Quando uma classe √© instanciada, essa inst√¢ncia √© chamada de objeto.
 Nesse objeto, podem ser criados os valores de acordo com os campos da classe.
 
-
 Estruturas : Interface
-… como uma classe base que serve de molde para v·rias classes.
+√â como uma classe base que serve de molde para v√°rias classes.
 Uma classe que implementa uma interface, deve implementar todos os menbros que tem dentro da interface.
 
-
 Estruturas : Enum
-Declara um conjunto de constantes nomeadas que comeÁam do zero e incrementam de 1 em 1.
+Declara um conjunto de constantes nomeadas que come√ßam do zero e incrementam de 1 em 1.
 Exemplo:
 enum Estacao {
 	primavera,
-	ver„o,
+	ver√£o,
 	outono,
 	inverno
 }
 
 Debugging
-A depuraÁ„o pode ser feita colocando um breakpoint no canto esquerdo do cÛdigo, ou apertanto F9 e o executando.
-A execuÁ„o, ent„o, vai parar onde foi colocado o breakpoint e o cÛdigo poder· ser inspecionado.
-
-https://github.com/Giovanna0208/Intro-Csharp-e-DotNet
-
+A depura√ß√£o pode ser feita colocando um breakpoint no canto esquerdo do c√≥digo, ou apertanto F9 e o executando.
+A execu√ß√£o, ent√£o, vai parar onde foi colocado o breakpoint e o c√≥digo poder√° ser inspecionado.
