@@ -31,4 +31,13 @@ Irá entrar na pasta do projeto.
 explorer .
 Irá abrir o Windows Explorer, na pasta atual do projeto.
 
+7. Abra o conteúdo da pasta no VS Code:
+code .
+Ao abrir o VS Code, aparecerá um modal sobre "Required assets". Clique em "Yes" para criar a pasta vccode.
+
+Outros comandos muito utilizados :
+dotnet restore - restaura os pacotes do projeto
+dotnet build - restaura e compila para gerar os binários.(exe, dll, etc)
+dotnet run - executa o programa
+
 
