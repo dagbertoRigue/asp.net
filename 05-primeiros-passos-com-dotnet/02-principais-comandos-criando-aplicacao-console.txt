@@ -1,0 +1,8 @@
+Abra o CMD.
+1. Verifique a versão do dotnet instalado :
+dotnet --version
+2. Verifique a versão dotnet atual :
+https://dotnet.microsoft.com/en-us/download
+Caso já exista uma versão mais atual, baixe para atualizar.
+3. Listar os comandos disponíveis :
+dotnet --help
