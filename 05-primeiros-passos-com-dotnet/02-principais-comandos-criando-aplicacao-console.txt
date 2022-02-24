@@ -4,5 +4,31 @@ dotnet --version
 2. Verifique a versão dotnet atual :
 https://dotnet.microsoft.com/en-us/download
 Caso já exista uma versão mais atual, baixe para atualizar.
-3. Listar os comandos disponíveis :
+3. Listar os comandos dotnet disponíveis :
 dotnet --help
+4. Vá até a pasta de projetos, de sua escolha, para criar o primeiro projeto teste console, em C#.
+Dicas de comandos do CMD:
+Dica1: use o comando "dir" para verificar quais pastas existem no diretório atual.
+Dica2: use o comando "cd" seguido do nome da pasta para acessá-la, caso ela esteja contida na pasta atual ("cd nomeDaPasta").
+Dica3: use "cd ../" para voltar na pasta que contem a pasta atual.
+Dica4: utilize a tecla "Tab" do teclado, para completar automaticamente o nome da pasta que deseja entrar.
+	Por exemplo, se vc tem uma pasta com o nome "source", na pasta atual e deseja acessá-la, digite "cd so" e aperte a tecla "Tab" e 	depois "Enter".
+Dica4: caso queira criar uma nova pasta para criar o projeto, utilize o comando "md" seguido do nome da pasta. 
+	Por exemplo: "md primeiros-passos".
+
+5. Criando o projeto via CMD:
+Após se situar na pasta que deseja criar o projeto de teste, execute : "dotnet new console -n nomeDoProjeto".
+Onde :
+- "dotnet" chama o .Net,
+- "new" cria um novo projeto, 
+- "console" especifica o tipo do projeto, 
+- "-n" é a função para nomear o projeto e, 
+- "nomeDoProjeto" é o nome do projeto que será escolhido.
+
+6. Verifique o projeto criado :
+cd digi + Tab
+Irá entrar na pasta do projeto.
+explorer .
+Irá abrir o Windows Explorer, na pasta atual do projeto.
+
+
