@@ -1,0 +1,10 @@
+C# : o que é ?
+C# é uma linguagem elegante, orientada a objetos e fortemente tipada.
+A sintaxe do C# é similar a do C, C++ e Java.
+Suporta os conceitos de encapsulamento, herança e polimorfismo, por exemplo.
+Os programas C# são executados no .Net, que inclui :
+- CLR (Common Language Runtime)
+- Conjunto unificado de bibliotecas de classes
+Atualmente, o compilador do C# é o Roslyn.
+
+C# : Como funciona ?
