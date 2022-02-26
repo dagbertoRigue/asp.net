@@ -35,3 +35,47 @@ Classes e interfaces são exemplos de tipos.
 Campo, métodos, propriedades e eventos são exemplos de membros.
 Quando os programas C# são compilados, eles são fisicamente empacotados em assemblies.
 Os assemblies geralmente têm a extensão de arquivo .exe ou .dll, dependendo se são aplicações ou bibliotecas.
+
+Tipos de valor
+Variáveis de tipos de valor contêm diretamente seus dados.
+As variáveis têm sua própris cópia dos dados e não é possível que as operações afetem outra variável.
+(exceto no caso das variáveis de parâmetro ref e out)
+
+Numéricos : sbyte, short, int, long, byte, ushort, uint, ulong.
+Caracteres unicode : char.
+Pontos flutuantes : float, double, decimal.
+Booleano: bool.
+Outros tipos : enum, struct e nullable.
+
+Variáveis de tipos de referência armazenam referências a seus dados.
+É possível que eu tenha duas variáveis referenciando o mesmo objeto.
+
+Tipos de Classes : class, objetc, string.Tipos de Arrays : int[], int[,], etc.
+interface, delegate.
+
+Instruções
+Ações de um programa são expressas usando instruções.
+{
+	Um bloco permite que várias instruções sejam escritas em contextos.
+}
+
+Instruções de declaração :
+- Declarações de variáveis e constantes locais.
+Instruções de condicional :
+- if;
+- switch.
+Instruções de repetição:
+- while;
+- do;
+- for;
+- foreach.
+Instruções auxiliares :
+- break;
+- continue;
+- return.
+instruções para tratativa de exceções :
+- throw;
+- try catch.. finally;
+- using.
+
+...
