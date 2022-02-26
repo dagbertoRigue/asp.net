@@ -78,4 +78,14 @@ instruções para tratativa de exceções :
 - try catch.. finally;
 - using.
 
+Arrays
+Um array é uma estrutura de dados que contém um número "x" de elementos, todos do mesmo tipo.
+São acessados através de índices computados.
+Arrays são tipos de referência e a declaração de uma variável.
+Array, simplesmente, reserva espaço para uma referência de uma instância de array.
+
+Ao criar um array, é especificado o tamanho da nova instância, que é fixo durante todo o tempo de vida da instância.
+os índices dos elementos de um array variam de 0 ao comprimento do array -1.
+int[] a = [0,1,2,3,...];
+
 ...
