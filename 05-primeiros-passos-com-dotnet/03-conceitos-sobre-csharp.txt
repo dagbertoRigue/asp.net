@@ -18,7 +18,8 @@ O CLR também fornece outros serviços :
 - Exception Handler - recebe e controla as exceções no programa.
 - Resources Manager.
 
-Além dos serviços de tempo de execução, o .Net também inclui uma extensa biblioteca com milhares de classes que fornecem uma ampla variedade de funcionalidades úteis, desde entrada e saída de arquivos, manipulação de cadeias de caracteres, análise XML, etc.
+Além dos serviços de tempo de execução, o .Net também inclui uma extensa biblioteca com milhares de classes que fornecem uma ampla variedade de funcionalidades úteis, 
+desde entrada e saída de arquivos, manipulação de cadeias de caracteres, análise XML, etc.
 
 C# : Estrutura de programa
 Os principais conceitos organizacionais em C# são :
